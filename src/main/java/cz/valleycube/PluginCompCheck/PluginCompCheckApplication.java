@@ -1,0 +1,12 @@
+package cz.valleycube.PluginCompCheck;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
+
+@SpringBootApplication
+public class PluginCompCheckApplication extends SpringBootServletInitializer {
+	public static void main(String[] args) {
+		SpringApplication.run(PluginCompCheckApplication.class, args);
+	}
+}

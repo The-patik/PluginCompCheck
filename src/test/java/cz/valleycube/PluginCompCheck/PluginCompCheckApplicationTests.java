@@ -1,0 +1,13 @@
+package cz.valleycube.PluginCompCheck;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PluginCompCheckApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
